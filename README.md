@@ -2,7 +2,8 @@
 ## Ava Scharfstein
 ### Mathematical Data Science Major Cumulative Final Project
 Recieved a Citation of Academic Excellence for this project
-Read the full paper [here](final_paper.pdf)
+
+Read the full paper [here](final_paper.pdf) or view the poster [here]().
 
 
 ## Abstract
